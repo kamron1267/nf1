@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(220, 220, 220);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.h2{
+    color: black;
+    background-color: white;
+    width: 124px;
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 5px;
+    height: 56px;
+    border-radius: 10px;
+}
+.text{
+    width: 174px;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-right: 5px;
+    color: #67B916;
+    background-color: black;
+    height: 56px;
+}
+.logo{
+    position: relative;
+    top: 76px;
+    left: 232px;
+}
+.tex{
+    display: flex;  
+    gap: 25px;
+    top: 152px;
+    left: 180px;
+    position: relative;
+}
+.nav h1{
+    margin-left: 200px;
+ margin-top: 15px;
+}
+.photo{
+    margin-left: 180px;
+    margin-top: 25px;
+}
+.div{
+    position: relative;
+    bottom: 490px;
+    left: 450px;
+}
+.div img{
+    width: 1100px;
+    height: 700px;
+}
